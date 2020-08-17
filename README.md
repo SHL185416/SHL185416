@@ -1,5 +1,6 @@
 ### Hello World👋
 真相不等于判断
+长夜安隐，多所饶益
 
 <!--
 **SHL185416/SHL185416** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
